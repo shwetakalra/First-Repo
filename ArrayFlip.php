@@ -1,7 +1,7 @@
 //Ques(1)=>how array_flip work for common Key values 
 //Ans=Always pick last common Key value 
 <?php 
-$name = array("ab"=>"string1","ab"=>"string2","ab"=>"string3");
+$nme = array("ab"=>"string1","ab"=>"string2","ab"=>"string3");
 // // $name = array("ab"=>"string1","ad"=>"string2","ac"=>"string3");
 // // $name = array("ab"=>"string1","ad"=>"string1","ac"=>"string1");
 $arr_flp =array_flip($name);
