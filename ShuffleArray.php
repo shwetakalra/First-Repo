@@ -1,7 +1,7 @@
 //shuffle an array
 <?php 
 $arr = array(2,4,1,9,8);
-$array1= $arr;
+$aray1= $arr;
 for($i=0;$i<(count($arr)-2);$i++)
 {
     print_r($array1);
